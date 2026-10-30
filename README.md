@@ -46,8 +46,11 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmedawad24&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedawad24&layout=compact&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmedawad24&theme=github_dark" alt="GitHub stats"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmedawad24&theme=github_dark" alt="Top languages"/>
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com/?user=Ahmedawad24&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
