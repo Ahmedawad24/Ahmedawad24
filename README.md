@@ -1,26 +1,33 @@
 <h1 align="center">Hi, I'm Ahmed Abdalkader 👋</h1>
 <p align="center">
   <b>Software Developer</b> · Cairo, Egypt<br/>
-  Co-founder of <b>Atriom</b> · I build mobile, web, and desktop applications with Flutter, C# / .NET, PHP, and SQL — with a focus on clean architecture and solid data design.
+  Co-founder of <b><a href="https://tri-tech.net">TriTech Solutions</a></b> (Atriom · Threadwire) · I build mobile, web, and desktop applications with Flutter, C# / .NET, PHP, and SQL — with a focus on clean architecture and solid data design.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-abdalkader"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://tri-tech.net"><img src="https://img.shields.io/badge/TriTech_Solutions-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TriTech Solutions"/></a>
   <a href="https://github.com/Ahmedawad24?tab=repositories"><img src="https://img.shields.io/badge/All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
 </p>
 
 ---
 
-### 🏢 Currently Building — Atriom
+### 🏢 Co-founder — [TriTech Solutions](https://tri-tech.net)
 
-**Co-founder** of **Atriom**, a mall-management platform for property owners and their tenants in Egypt.
+A Cairo software house building billing, ledger, and payment software in Arabic and English.
 
-- **Atriom Mobile** — Flutter tenant app: leases, invoices with per-line VAT, server-verified online payments, sales declarations, maintenance requests, parking permits, and notifications
-- Clean Architecture (feature-first), Bloc/Cubit, Dio + Retrofit, go_router, get_it/injectable, freezed
-- Arabic-first with full RTL + English, biometric sign-in, offline invoice viewing
-- Engineering culture: strict linting, CI on every PR, golden (visual-regression) tests, Conventional Commits
+**[Atriom](https://tri-tech.net)** — the platform running Egyptian malls on one set of books
+- Leases, monthly billing runs, service-charge recoveries, collections, and a double-entry general ledger
+- Four surfaces, one source of truth: admin console, tenant portal, vendor portal, and the **tenant mobile app (Flutter)** — invoices, online payments, sales declarations, maintenance requests, and push notifications
+- Arabic-first with full RTL, Egyptian VAT/withholding tax, Paymob, InstaPay, and post-dated cheques
+- Mobile stack: Clean Architecture, Bloc/Cubit, Dio + Retrofit, go_router, freezed; CI on every PR and golden (visual-regression) tests
 
-<sub>🔒 Private repositories — happy to walk through the work on request.</sub>
+**Threadwire** — WhatsApp, wired to your systems
+- Link an existing number by QR and send/receive through one REST API with signed webhooks
+- Team inbox with an AI agent, WooCommerce plugin, n8n workflows, and an MCP server for AI agents
+- Built-in protection: human-paced sending, new-contact limits, and WhatsApp OTP
+
+<sub>🔒 Product code lives in private repositories — happy to walk through it on request.</sub>
 
 ---
 
