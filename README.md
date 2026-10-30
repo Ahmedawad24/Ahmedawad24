@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ahmed Abdalkader 👋</h1>
 <p align="center">
   <b>Software Developer</b> · Cairo, Egypt<br/>
-  Co-founder of <b><a href="https://tri-tech.net">TriTech Solutions</a></b> (Atriom · Threadwire) · I build mobile, web, and desktop applications with Flutter, C# / .NET, PHP, and SQL — with a focus on clean architecture and solid data design.
+  Co-founder of <b><a href="https://tri-tech.net">TriTech Solutions</a></b> (<a href="https://atriom.tri-tech.net/">Atriom</a> · <a href="https://threadwire.net/">Threadwire</a>) · I build mobile, web, and desktop applications with Flutter, C# / .NET, PHP, and SQL — with a focus on clean architecture and solid data design.
 </p>
 
 <p align="center">
@@ -16,13 +16,13 @@
 
 A Cairo software house building billing, ledger, and payment software in Arabic and English.
 
-**[Atriom](https://tri-tech.net)** — the platform running Egyptian malls on one set of books
+**[Atriom](https://atriom.tri-tech.net/)** — the platform running Egyptian malls on one set of books
 - Leases, monthly billing runs, service-charge recoveries, collections, and a double-entry general ledger
 - Four surfaces, one source of truth: admin console, tenant portal, vendor portal, and the **tenant mobile app (Flutter)** — invoices, online payments, sales declarations, maintenance requests, and push notifications
 - Arabic-first with full RTL, Egyptian VAT/withholding tax, Paymob, InstaPay, and post-dated cheques
 - Mobile stack: Clean Architecture, Bloc/Cubit, Dio + Retrofit, go_router, freezed; CI on every PR and golden (visual-regression) tests
 
-**Threadwire** — WhatsApp, wired to your systems
+**[Threadwire](https://threadwire.net/)** — WhatsApp, wired to your systems
 - Link an existing number by QR and send/receive through one REST API with signed webhooks
 - Team inbox with an AI agent, WooCommerce plugin, n8n workflows, and an MCP server for AI agents
 - Built-in protection: human-paced sending, new-contact limits, and WhatsApp OTP
