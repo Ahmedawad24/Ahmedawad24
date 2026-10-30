@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ahmed Abdalkader 👋</h1>
 <p align="center">
   <b>Software Developer</b> · Cairo, Egypt<br/>
-  I build web applications and desktop systems with C# / .NET, PHP, and SQL — with a focus on clean architecture and solid data design.
+  Co-founder of <b>Atriom</b> · I build mobile, web, and desktop applications with Flutter, C# / .NET, PHP, and SQL — with a focus on clean architecture and solid data design.
 </p>
 
 <p align="center">
@@ -11,14 +11,28 @@
 
 ---
 
+### 🏢 Currently Building — Atriom
+
+**Co-founder** of **Atriom**, a mall-management platform for property owners and their tenants in Egypt.
+
+- **Atriom Mobile** — Flutter tenant app: leases, invoices with per-line VAT, server-verified online payments, sales declarations, maintenance requests, parking permits, and notifications
+- Clean Architecture (feature-first), Bloc/Cubit, Dio + Retrofit, go_router, get_it/injectable, freezed
+- Arabic-first with full RTL + English, biometric sign-in, offline invoice viewing
+- Engineering culture: strict linting, CI on every PR, golden (visual-regression) tests, Conventional Commits
+
+<sub>🔒 Private repositories — happy to walk through the work on request.</sub>
+
+---
+
 ### 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,js,jquery,html,css,bootstrap,mysql,cpp,py,git&perline=12" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,php,js,jquery,html,css,bootstrap,mysql,cpp,py,git&perline=14" alt="Tech stack"/>
 </p>
 
 | Area | Tools |
 |---|---|
+| **Mobile** | Flutter, Dart, Bloc/Cubit, Clean Architecture |
 | **Backend** | C#, ASP.NET Core MVC, Entity Framework, PHP |
 | **Frontend** | HTML, CSS, Bootstrap, JavaScript, jQuery |
 | **Desktop** | C# / .NET (Windows Forms) |
@@ -56,5 +70,5 @@
 ---
 
 <p align="center">
-  <i>Open to developer roles and collaboration — feel free to reach out on LinkedIn.</i>
+  <i>Open to collaboration and new opportunities — feel free to reach out on LinkedIn.</i>
 </p>
